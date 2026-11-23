@@ -3,7 +3,7 @@
 **Дата вступления в силу:** 23 ноября 2026 года  
 **Версия приложений:** 1.1.0 (сборка 17)  
 **Идентификатор пакета (Package ID):** `com.example.mobiletestguards` (ВОХР) и `com.example.private_guard_bilety` (ЧОП).  
-**Постоянный адрес размещения:** [https://mishakorobov.github.io/privacy-policy-vohrtesty2026/](https://mishakorobov.github.io/privacy-policy-vohrtesty2026/)
+**Постоянный адрес размещения:** [https://privacy-policy-vohrtesty2026.github.io/](https://privacy-policy-vohrtesty2026.github.io/)
 
 ---
 
@@ -128,7 +128,7 @@
 
 10.1. Разработчик оставляет за собой право вносить изменения в настоящую Политику в связи с изменением законодательства или функционала Приложения.
 
-10.2. Новая редакция Политики вступает в силу с момента ее публикации в Приложении и на официальной странице GitHub Pages: [https://mishakorobov.github.io/privacy-policy-vohrtesty2026/](https://mishakorobov.github.io/privacy-policy-vohrtesty2026/).
+10.2. Новая редакция Политики вступает в силу с момента ее публикации в Приложении и на официальной странице GitHub Pages: [https://privacy-policy-vohrtesty2026.github.io/](https://privacy-policy-vohrtesty2026.github.io/).
 
 ---
 
